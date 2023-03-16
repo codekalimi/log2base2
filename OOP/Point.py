@@ -12,3 +12,4 @@ class Point:
 
 point = Point(4, 2, 5)
 print(point.sqr_sum())
+print(point.x)
